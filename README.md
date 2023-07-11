@@ -6,7 +6,7 @@
 
 Após 9 meses de curso no devinHouse, chegamos neste desafio final. O projeto final consiste em desenvolver uma API para gerenciar IOTs de fazendas inteligentes.
 
-O Projeto foi feito em grupo, com 4 integrantes. O grupo foi composto por::
+O Projeto foi feito em grupo, com 4 integrantes. O grupo foi composto por:
 - [Eu (Marcelo)](https://www.linkedin.com/in/marcelo-campos-fullstack/);
 - [Francisko](https://www.linkedin.com/in/francisko-rezende/);
 - [Eduarda](https://www.linkedin.com/in/eduarda-garcia-franderlinde-4183b3259/);
@@ -89,7 +89,7 @@ O banco de dados utilizado foi o Postgres, com o ORM Typeorm. O banco de dados p
 
 # Features Especiais 📌
 
-<details style="margin-bottom: 10px;"><summary><strong> Arquitetura da Documentação do Swagger bem planejada e execultada;</strong> </summary>
+<details style="margin-bottom: 10px;"><summary><strong> Arquitetura da Documentação do Swagger bem planejada e executada;</strong> </summary>
 <div>
 <h6>Controller:</h6>
   <img src="readmeFiles/swagger1.png" alt="explicação da documentação do projeto" />
