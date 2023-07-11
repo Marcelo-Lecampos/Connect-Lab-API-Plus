@@ -1,0 +1,51 @@
+export const createCompanyApiProperty = {
+    company: {
+        name: 'company',
+        description: 'Nome da empresa',
+        example: 'Intelbras',
+        type: String,
+        required: true,
+    },
+    cnpj: {
+        name: 'cnpj',
+        description: 'Cnpj da empresa',
+        example: '09.638.885/0001-23',
+        type: String,
+        required: true,
+    },
+    responsible: {
+        name: 'responsible',
+        description: 'Nome do responsável da empresa',
+        example: 'Théo Silva',
+        type: String,
+        required: true,
+    },
+    email: {
+        name: 'email',
+        description: 'E-mail da empresa',
+        example: 'emailteste@gmail.com',
+        type: String,
+        required: true,
+    },
+    phone: {
+        name: 'phone',
+        description: 'Telefone da empresa',
+        example: '(48) 99766-8854',
+        type: String,
+        required: true,
+    },
+    password: {
+        name: 'password',
+        description: 'Senha para login da empresa',
+        example: '12345678',
+        type: String,
+        required: true,
+    },
+    confirmPassword: {
+        name: 'confirmPassword',
+        description: 'Confirmação da senha para login da empresa',
+        example: '12345678',
+        type: String,
+        required: true,
+    },
+}
